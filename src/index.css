@@ -105,4 +105,18 @@ button {
   color: #555;
 }
 
+/* Footer */
+.footer-container {
+  background-color: #144678;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0; 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
 
+.footer-container p {
+  margin: 0;
+}

@@ -5,7 +5,7 @@
 This is my most up to date react portfolio.
 ## Website preview
 
-![Homepage preview](./public/assets/images/Screenshot%202023-09-05%20020417.png)
+![Homepage preview](./public/assets/images/Portfolio-image.png)
 ## License
 
 This project is licensed under the MIT license.
