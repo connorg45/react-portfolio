@@ -4,8 +4,9 @@ function Portfolio() {
   return (
     <div className="portfolio-container">
       <section className="project">
-        <h2 className="project-title">Project 1</h2>
+        <h2 className="project-title">E-commerce Dog store</h2>
         <p className="project-description">
+          https://morning-mesa-14358-6466ec7ce729.herokuapp.com/
           Aenean id rutrum lorem, quis aliquet est. Duis sed consectetur libero.
           Nulla gravida dictum nibh, ac bibendum nunc elementum at. Integer non
           mauris in risus fermentum suscipit. Nam id dui nunc. Phasellus
